@@ -33,6 +33,8 @@ To use our tools, you can either visit the webpages listed in Table of Contents 
 ## Contributing
 We welcome contributions from the community! If you have an idea for a new tool or an improvement for an existing one, here’s how you can contribute:
 
+Write a mail to us. [Contact](#contact) here
+
 Fork the repository.
 
 Create a new branch:
