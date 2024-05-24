@@ -5,6 +5,7 @@ CWX is a comprehensive toolkit designed to provide a wide array of helpful tools
 
 ## Table of Contents
 [Features](#features)</br>
+[Public Projects](#public-projects)</br>
 [Installation & Usage](#installation--usage)</br>
 [Contributing](#contributing)</br>
 [License](#license)</br>
@@ -19,6 +20,10 @@ Automation Scripts: Automate repetitive tasks to save time and reduce errors.</b
 File Management: Manage, organize, and manipulate files with ease.</br>
 
 We continuously update CWX with new tools and features, ensuring it remains a robust and versatile toolkit.
+## Public Projects
+[CWX-CDX](https://github.com/thuner2007/cdx)</br>
+[CWX-Icons](https://github.com/thuner2007/cwx_icons)</br>
+[CWX-Wordlet](https://colinwalker.ch)
 
 ## Installation & Usage
 To use our tools, you can either visit the webpages listed in Table of Contents or in every projects repository is a tutorial for this specific project.
