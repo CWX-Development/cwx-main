@@ -4,11 +4,11 @@ CWX is a comprehensive toolkit designed to provide a wide array of helpful tools
 <b><em>CWX IS IN THE START-UP PHASE! THERE COULD BE SEVERAL BUGS!</em></b>
 
 ## Table of Contents
-[Features](https://github.com/thuner2007/cwx-main/edit/main/README.md#features)</br>
-Installation & Usage</br>
-Contributing</br>
-License</br>
-Contact</br>
+[Features](https://github.com/thuner2007/cwx-main?tab=readme-ov-file#features)</br>
+[Installation & Usage](https://github.com/thuner2007/cwx-main?tab=readme-ov-file#installation--usage)</br>
+[Contributing](https://github.com/thuner2007/cwx-main?tab=readme-ov-file#contributing)</br>
+[License](https://github.com/thuner2007/cwx-main?tab=readme-ov-file#license)</br>
+[Contact](https://github.com/thuner2007/cwx-main?tab=readme-ov-file#contact)</br>
 
 ## Features
 CWX offers a diverse set of features, including but not limited to:
