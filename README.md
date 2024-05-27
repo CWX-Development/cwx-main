@@ -1,5 +1,5 @@
 <h1>Welcome to CWX</h1>
-CWX is a comprehensive toolkit designed to provide a wide array of helpful tools that cater to various needs. Whether you are a developer, a data scientist, or just someone looking to streamline your daily tasks, CWX has something valuable to offer. Our goal is to make these tools accessible and beneficial for everyone, making CWX an essential resource in your toolbox.
+CWX is a comprehensive toolkit designed to provide a wide range of helpful tools, to help you in different tasks. Whether you are a developer, a designer, or just someone looking to streamline your daily tasks, CWX has something valuable to offer. Our goal is to make these tools accessible and beneficial for everyone, making CWX an essential resource in your toolbox.
 </br></br>
 <b><em>CWX IS IN THE START-UP PHASE! THERE COULD BE SEVERAL BUGS!</em></b>
 </br></br>
