@@ -59,7 +59,7 @@ git push origin feature-name
 
 Open a pull request, detailing your changes and the benefits they bring.
 
-Please ensure your code adheres to the existing coding standards and includes appropriate tests.
+Please ensure your code adheres to the existing coding standards and includes appropriate tests and is not under a license of someone else!
 
 ## License
 Please note the different licenses of the CWX projects!
