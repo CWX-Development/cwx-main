@@ -8,6 +8,7 @@ CWX was invented in February 2024.
 ## Table of Contents
 [Features](#features)</br>
 [Public Projects](#public-projects)</br>
+[This repo](#this-repo)</br>
 [Installation & Usage](#installation--usage)</br>
 [Contributing](#contributing)</br>
 [License](#license)</br>
@@ -27,6 +28,8 @@ We continuously update CWX with new tools and features, ensuring it remains a ro
 [CWX-Icons](https://github.com/thuner2007/cwx_icons)</br>
 [CWX-Wordlet](https://colinwalker.ch)
 
+## This repo
+This repository is a collection of multiple files of cwx. It is the main repo and from here all is starting.
 ## Installation & Usage
 To use our tools, you can either visit the webpages listed in Table of Contents or in every projects repository is a tutorial for this specific project.
 
