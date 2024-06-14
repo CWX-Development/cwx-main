@@ -6,6 +6,7 @@ CWX is a comprehensive toolkit designed to provide a wide range of helpful tools
 CWX was invented in February 2024.
 
 ## Table of Contents
+
 [Features](#features)</br>
 [Public Projects](#public-projects)</br>
 [This repo](#this-repo)</br>
@@ -15,6 +16,7 @@ CWX was invented in February 2024.
 [Contact](#contact)</br>
 
 ## Features
+
 CWX offers a diverse set of features, including but not limited to:
 
 Data Processing Tools: Efficient tools for data cleaning, transformation, and analysis.</br>
@@ -23,17 +25,25 @@ Automation Scripts: Automate repetitive tasks to save time and reduce errors.</b
 File Management: Manage, organize, and manipulate files with ease.</br>
 
 We continuously update CWX with new tools and features, ensuring it remains a robust and versatile toolkit.
+
 ## Public Projects
+
 [CWX-CDX](https://github.com/thuner2007/cdx)</br>
 [CWX-Icons](https://github.com/thuner2007/cwx_icons)</br>
 [CWX-Wordlet](https://colinwalker.ch)
 
 ## This repo
+
 This repository is a collection of multiple files of cwx. It is the main repo and from here all is starting.
+
+In the folder "cwx-main-test-react-app", you can test your js code. The app is created with "npx create-react-app". It is also used for testing cwx applications, for example the cwx-main-backend. Please create a new component, if you use it.
+
 ## Installation & Usage
+
 To use our tools, you can either visit the webpages listed in Table of Contents or in every projects repository is a tutorial for this specific project.
 
 ## Contributing
+
 We welcome contributions from the community! If you have an idea for a new tool or an improvement for an existing one, here’s how you can contribute:
 
 Write a mail to us. [Contact](#contact) here
@@ -45,14 +55,17 @@ Create a new branch:
 ```sh
 git checkout -b feature-name
 ```
+
 Make your changes.
 
 Commit your changes:
+
 ```sh
 git commit -m "Add feature name"
 ```
 
 Push to the branch:
+
 ```sh
 git push origin feature-name
 ```
@@ -62,9 +75,11 @@ Open a pull request, detailing your changes and the benefits they bring.
 Please ensure your code adheres to the existing coding standards and includes appropriate tests and is not under a license of someone else!
 
 ## License
+
 Please note the different licenses of the CWX projects!
 
 ## Contact
+
 If you have any questions, feedback, or suggestions, feel free to reach out:
 
 Email: cwx.development@gmail.com
