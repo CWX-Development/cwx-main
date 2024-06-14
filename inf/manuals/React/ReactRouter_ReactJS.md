@@ -1,5 +1,7 @@
 # React Router Tutorial
 
+Author: Thuner2007
+
 In this tutorial, we will learn how to use React Router to handle routing in a React application.
 
 ## Table of Contents

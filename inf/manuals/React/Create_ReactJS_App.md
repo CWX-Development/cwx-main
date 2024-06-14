@@ -1,5 +1,7 @@
 # Creating a React App
 
+Author: Thuner2007
+
 In this tutorial, we will walk you through the steps to create a React app using Create React App.
 
 ## Prerequisites

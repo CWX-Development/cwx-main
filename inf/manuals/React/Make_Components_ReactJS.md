@@ -1,5 +1,7 @@
 # Making Components in ReactJS
 
+Author: Thuner2007
+
 In this tutorial, we will walk you through the steps to create a React Component and using it.
 
 ## Prerequisites

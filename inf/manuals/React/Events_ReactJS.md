@@ -1,5 +1,7 @@
 # React Events Tutorial
 
+Author: Thuner2007
+
 In this tutorial, we will learn how to work with events in React.
 
 ## Event Handling in React

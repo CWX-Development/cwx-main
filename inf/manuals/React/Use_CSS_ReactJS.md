@@ -1,5 +1,7 @@
 # Using CSS in ReactJS
 
+Author: Thuner2007
+
 In this tutorial, we will guide you through the process of using CSS in ReactJS.
 
 ## Prerequisites

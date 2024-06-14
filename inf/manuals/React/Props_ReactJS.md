@@ -1,5 +1,7 @@
 # React Props Tutorial
 
+Author: Thuner2007
+
 In this tutorial, we will learn the concept of props in ReactJS. Props, short for properties, are a way to pass data from a parent component to its child components. They allow for the communication and sharing of data between different parts of a React application.
 
 ## Table of Contents

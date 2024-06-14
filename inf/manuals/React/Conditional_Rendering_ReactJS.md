@@ -1,5 +1,7 @@
 # React Conditional Rendering
 
+Author: Thuner2007
+
 Conditional rendering is a powerful feature in React that allows you to control what gets rendered based on certain conditions. In this tutorial, we will learn different ways to implement conditional rendering in React.
 
 ## Using if-else statements
