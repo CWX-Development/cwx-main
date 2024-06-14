@@ -40,6 +40,8 @@ Folders:
 
 "cwx-main-test-react-app", you can test your js code. The app is created with "npx create-react-app". It is also used for testing cwx applications, for example the cwx-main-backend. Please create a new component, if you use it.
 
+"Apps", apps from different programming languages, frameworks... , that arent very big or arent a project themself.
+
 "inf", place for computer scientists.
 
 "inf/manuals", manuals for things like React, Angular, C#...
