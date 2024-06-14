@@ -1,10 +1,10 @@
 import './App.css';
-import AuthTester from './components/AuthTester';
+import MyComponent from './components/MyComponent';
 
 function App() {
   return (
     <div className="App">
-      <AuthTester />
+      <MyComponent />
     </div>
   );
 }
