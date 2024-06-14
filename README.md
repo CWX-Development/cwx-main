@@ -30,7 +30,7 @@ We continuously update CWX with new tools and features, ensuring it remains a ro
 
 [CWX-CDX](https://github.com/thuner2007/cdx)</br>
 [CWX-Icons](https://github.com/thuner2007/cwx_icons)</br>
-[CWX-Wordlet](https://colinwalker.ch)
+[CWX-Wordlet](https://cwx-wordlet-nu.vercel.app)
 
 ## This repo
 
