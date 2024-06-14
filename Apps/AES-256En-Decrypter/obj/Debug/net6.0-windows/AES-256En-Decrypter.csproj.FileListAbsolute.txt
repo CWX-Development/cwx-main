@@ -1,0 +1,16 @@
+C:\Users\TAAWACO3\source\repos\cwx-main\Apps\AES-256En-Decrypter\bin\Debug\net6.0-windows\AES-256En-Decrypter.exe
+C:\Users\TAAWACO3\source\repos\cwx-main\Apps\AES-256En-Decrypter\bin\Debug\net6.0-windows\AES-256En-Decrypter.deps.json
+C:\Users\TAAWACO3\source\repos\cwx-main\Apps\AES-256En-Decrypter\bin\Debug\net6.0-windows\AES-256En-Decrypter.runtimeconfig.json
+C:\Users\TAAWACO3\source\repos\cwx-main\Apps\AES-256En-Decrypter\bin\Debug\net6.0-windows\AES-256En-Decrypter.dll
+C:\Users\TAAWACO3\source\repos\cwx-main\Apps\AES-256En-Decrypter\bin\Debug\net6.0-windows\AES-256En-Decrypter.pdb
+C:\Users\TAAWACO3\source\repos\cwx-main\Apps\AES-256En-Decrypter\obj\Debug\net6.0-windows\AES_256En_Decrypter.Form1.resources
+C:\Users\TAAWACO3\source\repos\cwx-main\Apps\AES-256En-Decrypter\obj\Debug\net6.0-windows\AES-256En-Decrypter.csproj.GenerateResource.cache
+C:\Users\TAAWACO3\source\repos\cwx-main\Apps\AES-256En-Decrypter\obj\Debug\net6.0-windows\AES-256En-Decrypter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAAWACO3\source\repos\cwx-main\Apps\AES-256En-Decrypter\obj\Debug\net6.0-windows\AES-256En-Decrypter.AssemblyInfoInputs.cache
+C:\Users\TAAWACO3\source\repos\cwx-main\Apps\AES-256En-Decrypter\obj\Debug\net6.0-windows\AES-256En-Decrypter.AssemblyInfo.cs
+C:\Users\TAAWACO3\source\repos\cwx-main\Apps\AES-256En-Decrypter\obj\Debug\net6.0-windows\AES-256En-Decrypter.csproj.CoreCompileInputs.cache
+C:\Users\TAAWACO3\source\repos\cwx-main\Apps\AES-256En-Decrypter\obj\Debug\net6.0-windows\AES-256En-Decrypter.dll
+C:\Users\TAAWACO3\source\repos\cwx-main\Apps\AES-256En-Decrypter\obj\Debug\net6.0-windows\refint\AES-256En-Decrypter.dll
+C:\Users\TAAWACO3\source\repos\cwx-main\Apps\AES-256En-Decrypter\obj\Debug\net6.0-windows\AES-256En-Decrypter.pdb
+C:\Users\TAAWACO3\source\repos\cwx-main\Apps\AES-256En-Decrypter\obj\Debug\net6.0-windows\AES-256En-Decrypter.genruntimeconfig.cache
+C:\Users\TAAWACO3\source\repos\cwx-main\Apps\AES-256En-Decrypter\obj\Debug\net6.0-windows\ref\AES-256En-Decrypter.dll
