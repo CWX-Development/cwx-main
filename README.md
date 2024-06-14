@@ -36,7 +36,13 @@ We continuously update CWX with new tools and features, ensuring it remains a ro
 
 This repository is a collection of multiple files of cwx. It is the main repo and from here all is starting.
 
-In the folder "cwx-main-test-react-app", you can test your js code. The app is created with "npx create-react-app". It is also used for testing cwx applications, for example the cwx-main-backend. Please create a new component, if you use it.
+Folders:
+
+"cwx-main-test-react-app", you can test your js code. The app is created with "npx create-react-app". It is also used for testing cwx applications, for example the cwx-main-backend. Please create a new component, if you use it.
+
+"inf", place for computer scientists.
+
+"inf/manuals", manuals for things like React, Angular, C#...
 
 ## Installation & Usage
 
