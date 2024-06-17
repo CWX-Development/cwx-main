@@ -185,8 +185,7 @@
             Controls.Add(listBox2);
             Controls.Add(listBox1);
             Name = "Form1";
-            Text = "Form1";
-            Load += Form1_Load;
+            Text = "CWX En/Decrypter";
             ResumeLayout(false);
             PerformLayout();
         }
