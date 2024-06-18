@@ -46,6 +46,8 @@ Folders:
 
 "inf/manuals", manuals for things like React, Angular, C#...
 
+"Games", files for Games like Minecraft, Fortnite, GTA...
+
 ## Installation & Usage
 
 To use our tools, you can either visit the webpages listed in Table of Contents or in every projects repository is a tutorial for this specific project.
