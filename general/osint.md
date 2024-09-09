@@ -25,6 +25,8 @@ Now you can try these steps:
 ** A good thing is also finding the family members of the person.
 
 * Searchengine
-** Try typing in the name and the city in a searchengine like Google or Yahoo!. Probably you will find articles or where the person went to school.
+** Try typing in the name and the city in a searchengine like Google or Yahoo!
+** Probably you will find articles or where the person went to school.
+** With this information you can search more deeper and probably find out more.
 
 more coming soon...
