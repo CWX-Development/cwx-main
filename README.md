@@ -36,17 +36,7 @@ We continuously update CWX with new tools and features, ensuring it remains a ro
 
 This repository is a collection of multiple files of cwx. It is the main repo and from here all is starting.
 
-Folders:
-
-"cwx-main-test-react-app", you can test your js code. The app is created with "npx create-react-app". It is also used for testing cwx applications, for example the cwx-main-backend. Please create a new component, if you use it.
-
-"Apps", apps from different programming languages, frameworks... , that arent very big or arent a project themself.
-
-"inf", place for computer scientists.
-
-"inf/manuals", manuals for things like React, Angular, C#...
-
-"Games", files for Games like Minecraft, Fortnite, GTA...
+- Every folder must have a [Foldername].md file in it. In this file is written down, for what purpose this folder exists.
 
 ## Installation & Usage
 
@@ -56,9 +46,9 @@ To use our tools, you can either visit the webpages listed in Table of Contents 
 
 We welcome contributions from the community! If you have an idea for a new tool or an improvement for an existing one, here’s how you can contribute:
 
-Write a mail to us. [Contact](#contact) here
+### Write a mail to us. [Contact](#contact) here
 
-Fork the repository.
+### Fork the repository.
 
 Create a new branch:
 
@@ -84,15 +74,19 @@ Open a pull request, detailing your changes and the benefits they bring.
 
 Please ensure your code adheres to the existing coding standards and includes appropriate tests and is not under a license of someone else!
 
+## RULES
+
+Please consider the rules in the [RULES folder](RULES).
+
 ## License
 
-Please note the different licenses of the CWX projects!
+Please note the different licenses of the CWX projects! The files are usually <b>MIT license</b>
 
 ## Contact
 
 If you have any questions, feedback, or suggestions, feel free to reach out:
 
-Email: cwx.development@gmail.com
-GitHub Issues: open an issue [HERE](https://github.com/thuner2007/cwx-main/issues/new)
+- Email: cwx.development@gmail.com
+- GitHub Issues: open an issue [HERE](https://github.com/thuner2007/cwx-main/issues/new)
 
 <h2>Thank you for using CWX! We hope it becomes a valuable tool in your daily workflow.</h2>
